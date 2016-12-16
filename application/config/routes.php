@@ -47,7 +47,7 @@ $route["news/(.*)"] = 'news/show/$1';
 
 $route["product/(.*)"] = 'product/index/$1';
 
-$route["users/signup"] = 'users/index';
+$route["users/signup"] = 'users/index.html';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
