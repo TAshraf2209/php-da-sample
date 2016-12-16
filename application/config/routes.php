@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "main";
+$route['default_controller'] = "index.html";
 $route['404_override'] = '';
 
 //$route['{controller_name}/(:any)'] = "{controller_name}/{method}/{@param}";
